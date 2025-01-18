@@ -1,0 +1,11 @@
+title = "Car Predictor"
+headfont = ("Lucida Calligraphy", 25, 'bold')
+headfont2 = ("Lucida Calligraphy", 16, 'bold')
+textfont = ('Century', 12, 'bold')
+pagebkcolor='black'
+headbkcolor='white'
+headcolor='#ADD8E6'
+textcolor='black'
+whitetext = 'white'
+diagram_color = '#1c96c5'
+btcolor = '#1c96c5'
